@@ -1,4 +1,4 @@
-# Essay:Putting the hours on fun, not bugs: Incorporating DevOps in the Modern Video Game Industry
+# Essay: Putting the hours on fun, not bugs: Incorporating DevOps in the Video Game Industry
 
 ## Members
 Gabriel Chang (gchang@kth.se)
